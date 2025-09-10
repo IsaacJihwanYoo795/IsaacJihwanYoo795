@@ -1,16 +1,12 @@
-## Hi there 👋
+# About Me
 
-<!--
-**IsaacJihwanYoo795/IsaacJihwanYoo795** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hello! My name is Isaac Yoo and I am an undergraduate student at the University of Virginia!
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on ... Undergraduate Studies
+- 🌱 I’m currently learning ... Biology, Chemistry, Public Health, Data Science
+- 👯 I’m looking to collaborate on ...Data Science Projects
+- 🤔 I’m looking for help with ... Data Science Projects
+- 💬 Ask me about ... my Machine Learning Model
+- 📫 How to reach me: ...Linkedin
+- 😄 Pronouns: ... He/Him
+- ⚡ Fun fact: ... Pre-Medical
